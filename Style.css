@@ -12,9 +12,48 @@ nav#navvy.navbar.navbar-static-top {
 }
 
 #navvy a {
-    color:#E8F8FC;
+    color:#FBFFFF;
 }
 
 #navvy a:hover {
     background:none;
+}
+
+/*JUMBOTRON SECTION*/
+
+.mainSec {
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');
+    background-size: cover;
+    margin-bottom: 0px;
+    padding-top: 30px;
+    padding-bottom: 219px;
+}
+
+h1#headerText {
+    text-align:center;
+    color:#FBFFFF;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p#headerSubText {
+    text-align:center;
+    color:#FBFFFF;
+    margin-bottom: 0px;
+}
+
+.mapSec {
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.col-md-9 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.col-md-3 {
+    padding-left: 0px;
+    padding-right: 0px;
 }
