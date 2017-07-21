@@ -57,3 +57,24 @@ p#headerSubText {
     padding-left: 0px;
     padding-right: 0px;
 }
+
+/*LOCATIONS SECTION*/
+.locationHeader {
+    background-color:#474E5D;
+    padding-top: 30px;
+}
+
+h1#locationHeaderText {
+    text-align:center;
+    color:#FBFFFF;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+p#locationSubText {
+    text-align:center;
+    color:#FBFFFF;
+    margin-bottom: 0px;
+    border-bottom-width: 30px;
+    padding-bottom: 30px;
+}
