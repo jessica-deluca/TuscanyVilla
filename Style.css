@@ -59,6 +59,9 @@ p#headerSubText {
 }
 
 /*LOCATIONS SECTION*/
+
+/*LOCATIONS HEADER*/
+
 .locationHeader {
     background-color:#474E5D;
     padding-top: 30px;
@@ -77,4 +80,25 @@ p#locationSubText {
     margin-bottom: 0px;
     border-bottom-width: 30px;
     padding-bottom: 30px;
+}
+
+/*LOCATION 1*/
+
+.row.location1 {
+    margin-left: 89.5px;
+    margin-right: 89.5px;
+}
+
+.row.location1.col-md-7 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.row.location1.col-md-5 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#location1Image {
+    width:300px;
 }
