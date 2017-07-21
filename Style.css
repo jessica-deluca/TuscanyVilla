@@ -1,1 +1,20 @@
-﻿
+﻿/*NAVBAR STYLING*/
+
+#logoIMG {
+    width:150px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+nav#navvy.navbar.navbar-static-top {
+    margin-bottom:0px;
+    background-color:#474E5D;
+}
+
+#navvy a {
+    color:#E8F8FC;
+}
+
+#navvy a:hover {
+    background:none;
+}
