@@ -19,6 +19,14 @@ nav#navvy.navbar.navbar-static-top {
     background:none;
 }
 
+button.navbar-toggle {
+    border:1px solid #E8F8FC;
+}
+
+span.icon-bar {
+    border:1px solid #E8F8FC;
+}
+
 /*JUMBOTRON SECTION*/
 
 .mainSec {
@@ -48,12 +56,12 @@ p#headerSubText {
     padding-bottom: 0px;
 }
 
-.col-md-9 {
+.col-sm-9 col-md-9 col-lg-9 {
     padding-left: 0px;
     padding-right: 0px;
 }
 
-.col-md-3 {
+.col-sm-3 col-md-3 col-lg-3 {
     padding-left: 0px;
     padding-right: 0px;
 }
