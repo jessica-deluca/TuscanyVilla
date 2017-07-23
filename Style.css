@@ -18,3 +18,11 @@ nav#navvy.navbar.navbar-static-top {
 #navvy a:hover {
     background:none;
 }
+
+button.navbar-toggle {
+    border:1px solid #E8F8FC;
+}
+
+span.icon-bar {
+    border:1px solid #E8F8FC;
+}
